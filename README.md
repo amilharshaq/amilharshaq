@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amilharshaq
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning rest api in flask
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me : mail me
 
